@@ -16,13 +16,13 @@ Implementar un esquema de gemelos digitales en la plantaforma de desarrollo Dofb
 ## Desarrollo
 
 - [ ] Crear el paquete del robot en ROS y ROS 2
-    - [ ]  Metapaquete description
-    - [ ]  Metapaquete bringup
+    - [x]  Metapaquete description
+    - [x]  Metapaquete bringup
     - [ ]  Metapaquete gazebo
-    - [ ]  Metapaquete description
+    - [x]  Metapaquete description
     - [ ]  Metapaquete script
     - [ ]  Metapaquete World
-- [ ] Generación del entorno físico del robot
+- [x] Generación del entorno físico del robot
 - [ ] Realización de pruebas básicas de manipulación de objetos
 
 
